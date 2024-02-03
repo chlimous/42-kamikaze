@@ -2,4 +2,4 @@
 
 ![kamikaze](kamikaze.png)
 
-<div align="center"><font size=+1>Use at your own risk.</font></div>
+<div align="center"><font size=+1>Law #1: If a bad guy can persuade you to run his program on your computer, it’s not your computer anymore.</font></div>
